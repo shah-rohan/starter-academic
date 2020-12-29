@@ -3,7 +3,11 @@ title: Rohan Shah
 role: M.D./Ph.D. Student at the University of Chicago
 bio: My research interests include histone modifications and next-generation
   sequencing.
-interests: []
+interests:
+  - Epigenetics
+  - antibodies
+  - ChIP-seq
+  - NGS
 social:
   - icon: envelope
     icon_pack: fas
