@@ -5,25 +5,40 @@ bio: My research interests include histone modifications and next-generation
   sequencing.
 interests:
   - Epigenetics
-  - antibodies
-  - ChIP-seq
-  - NGS
+  - Antibodies
+  - Chromatin immunoprecipitation
+  - Next-generation sequencing
 social:
   - icon: envelope
     icon_pack: fas
-    link: /#contact
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: mailto:rohan.n.shah@outlook.com
+    label: Email
+    display:
+      header: true
+  - icon: orcid
+    icon_pack: ai
+    link: https://orcid.org/0000-0002-2646-7042
+    label: ORCID
+    display:
+      header: true
   - icon: graduation-cap
     icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://scholar.google.com/citations?user=wekljJcAAAAJ&hl=en
+    label: Google Scholar
+    display:
+      header: true
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/shah-rohan
+    label: Github
+    display:
+      header: true
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.linkedin.com/in/rohan-shah-07729ab3/
+    label: LinkedIn
+    display:
+      header: true
 organizations:
   - name: The University of Chicago
 education:
