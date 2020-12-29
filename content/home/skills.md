@@ -16,12 +16,15 @@ subtitle:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-- icon: chart-line
-  icon_pack: fas
-  name: Statistics
+- icon: windows
+  icon_pack: fab
+  name: Windows
 - icon: ubuntu
   icon_pack: fab
   name: Ubuntu
+- icon: chart-line
+  icon_pack: fas
+  name: Statistics
 - icon: r-project
   icon_pack: fab
   name: R
