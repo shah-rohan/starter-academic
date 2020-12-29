@@ -20,25 +20,25 @@ social:
     link: https://orcid.org/0000-0002-2646-7042
     label: ORCID
     display:
-      header: true
+      header: false
   - icon: graduation-cap
     icon_pack: fas
     link: https://scholar.google.com/citations?user=wekljJcAAAAJ&hl=en
     label: Google Scholar
     display:
-      header: true
+      header: false
   - icon: github
     icon_pack: fab
     link: https://github.com/shah-rohan
     label: Github
     display:
-      header: true
+      header: false
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/rohan-shah-07729ab3/
     label: LinkedIn
     display:
-      header: true
+      header: false
 organizations:
   - name: The University of Chicago
 education:
