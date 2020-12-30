@@ -45,12 +45,12 @@ experience:
     description: Performed chart abstractions as part of multiple ongoing research projects with Dr. Renslow Sherer at the University of Chicago.
 
   - title: Research Consultant
-	company: Epicypher, Inc.
-	company_url: 'https://www.epicypher.com/'
-	location: Durham, North Carolina
-	date_start: '2017-03'
-	date_end: '2018-04'
-	description: |2-
+  company: Epicypher, Inc.
+  company_url: 'https://www.epicypher.com/'
+  location: Durham, North Carolina
+  date_start: '2017-03'
+  date_end: '2018-04'
+  description: |2-
         Responsibilities included:
 
         * Training researchers on-site in methods and principles of calibrated chromatin immunoprecipitation
