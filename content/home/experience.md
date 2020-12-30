@@ -34,7 +34,7 @@ experience:
         * Developing a novel form of chromatin immunoprecipitation to assess and quantify internal histone modifications
         * Serving as systems administrator to manage and maintain lab servers and promote integration of computational resources with ongoing research projects throughout the lab
         * Developing novel bioinformatic methods for genome-wide data analysis
-    		* Working in multiple ongoing collaborations on the roles of histone modifications as epigenetic regulators
+        * Working in multiple ongoing collaborations on the roles of histone modifications as epigenetic regulators
         
   - title: Chart Abstracter
     company: The University of Chicago
