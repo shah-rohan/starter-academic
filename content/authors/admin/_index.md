@@ -1,8 +1,8 @@
 ---
 title: Rohan Shah
-role: M.D./Ph.D. Student at the University of Chicago
-bio: My research interests include histone modifications and next-generation
-  sequencing.
+role: M.D./Ph.D. Student at The University of Chicago
+bio: I am an M.D./Ph.D. student at The University of Chicago studying chromatin
+  in the Ruthenburg Lab.
 interests:
   - Epigenetics
   - Antibodies
@@ -39,8 +39,7 @@ social:
     label: LinkedIn
     display:
       header: false
-organizations:
-  - name: The University of Chicago
+organizations: []
 education:
   courses:
     - course: Ph.D. in Genetics, Genomics, and Systems Biology (ongoing)
