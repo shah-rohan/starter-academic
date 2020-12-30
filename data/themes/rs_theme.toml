@@ -1,0 +1,18 @@
+# Theme metadata
+name = "rs_theme"
+
+# Is theme light or dark?
+light = true
+
+# Primary
+primary = "#800000"
+
+# Menu
+menu_primary = "#fff"
+menu_text = "#767676"
+menu_text_active = "#800000"
+menu_title = "#000"
+
+# Home sections
+home_section_odd = "fff"
+home_section_even = "#d6d6ce"
