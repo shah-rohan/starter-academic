@@ -1,3 +1,4 @@
+---
 # An instance of the Experience widget.
 # Documentation: https://wowchemy.com/docs/page-builder/
 widget: experience
@@ -55,3 +56,4 @@ experience:
 		* Training researchers on-site in methods and principles of calibrated chromatin immunoprecipitation
 		* Consulting on feasibility of simplification and consolidation of materials and proecdures for commercialization
 		* Assisting with preparing documentation and troubleshooting guides for calibrated chromatin immunoprecipitation kit
+---
