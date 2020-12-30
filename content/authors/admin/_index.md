@@ -1,6 +1,6 @@
 ---
 title: Rohan Shah
-role: M.D./Ph.D. Student at The University of Chicago
+role: M.D./Ph.D. Student
 bio: I am an M.D./Ph.D. student at The University of Chicago studying chromatin
   in the Ruthenburg Lab.
 interests:
@@ -39,7 +39,8 @@ social:
     label: LinkedIn
     display:
       header: false
-organizations: []
+organizations:
+  - name: The University of Chicago
 education:
   courses:
     - course: Ph.D. in Genetics, Genomics, and Systems Biology (ongoing)
