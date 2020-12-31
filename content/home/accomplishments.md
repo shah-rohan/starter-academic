@@ -44,7 +44,7 @@ item:
   title: Frances E. Knock Prize for Outst. Acad. Achievement in Chemistry
   
 - date_start: "2018-12-01"
-  organization: The University of Chicago
+  organization: Keystone Symposia Foundation
   title: Keystone Symposia Scholarship Awardee
   
 - date_start: "2019-08-01"
