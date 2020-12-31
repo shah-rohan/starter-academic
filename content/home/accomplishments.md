@@ -10,7 +10,7 @@ headless: true
 weight: 50
 
 # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
-title: 'Accomplish&shy;ments'
+title: 'Honors and Awards'
 subtitle:
 
 # Date format
@@ -23,28 +23,40 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
-- certificate_url: https://www.coursera.org
-  date_end: ""
-  date_start: "2018-10-01"
-  description: ""
-  organization: Coursera
-  organization_url: https://www.coursera.org
-  title: Neural Networks and Deep Learning
-  url: ""
-- certificate_url: https://www.edx.org
-  date_end: ""
-  date_start: "2018-03-01"
-  description: Formulated informed blockchain models, hypotheses, and use cases.
-  organization: edX
-  organization_url: https://www.edx.org
-  title: Blockchain Fundamentals
-  url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-- certificate_url: https://www.datacamp.com
-  date_end: "2017-12-21"
-  date_start: "2017-07-01"
-  description: ""
-  organization: DataCamp
-  organization_url: https://www.datacamp.com
-  title: 'Object-Oriented Programming in R: S3 and R6 Course'
-  url: ""
+- date_start: "2015-05-01"
+  organization: The University of Chicago
+  title: Beatrice G. and Nate H. Sherman Fellowship
+  
+- date_start: "2016-06-01"
+  organization: The University of Chicago
+  title: Katen Scholar
+  
+- date_start: "2017-04-01"
+  organization: The University of Chicago
+  title: University of Chicago Student Marshal
+  
+- date_start: "2017-05-01"
+  organization: The University of Chicago
+  title: Phi Beta Kappa Honor Society, Chapter Beta of Illinois
+  
+- date_start: "2018-05-01"
+  organization: The University of Chicago
+  title: Frances E. Knock Prize for Outst. Acad. Achievement in Chemistry
+  
+- date_start: "2018-12-01"
+  organization: The University of Chicago
+  title: Keystone Symposia Scholarship Awardee
+  
+- date_start: "2019-08-01"
+  organization: The University of Chicago
+  title: Summer Research Program Overall Excellence in Basic Sciences
+  
+- date_start: "2020-04-01"
+  organization: The University of Chicago
+  title: Ting-Wa Wong MD, PhD Scholarship
+  
+- date_start: "2020-04-01"
+  organization: The University of Chicago
+  title: Growth, Development and Disabilities Training Program Appointee
+  
 ---
