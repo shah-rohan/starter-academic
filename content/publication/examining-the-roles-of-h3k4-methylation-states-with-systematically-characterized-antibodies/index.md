@@ -31,7 +31,7 @@ author_notes:
 - Equal Contribution
 
 date: "2018-09-20"
-doi: "10.1038/nsmb.3424"
+doi: "10.1016/j.molcel.2018.08.015"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2018-09-20T00:00:00Z"
@@ -43,15 +43,13 @@ publishDate: "2018-09-20T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *Nature Structural and Molecular Biology*
-publication_short: In *NSMB*
+publication: In *Molecular Cell*
+publication_short: In *Mol Cell*
 
-abstract: We recently described a new class of long noncoding RNAs (lncRNAs) that are distinguished by especially tight chromatin association and whose presence is strongly correlated to expression of nearby genes. Here, we examine the cis-enhancer mechanism of this class of chromatin-enriched RNA (cheRNA) across multiple human cell lines. cheRNAs are largely cell type specific and provide the most reliable chromatin signature to predict cis-gene transcription in every human cell type examined. Targeted depletion of three cheRNAs decreases expression of their neighboring genes, indicating potential co-activator function, and single-molecule fluorescence in situ hybridization (smFISH) of one cheRNA-distal target gene pair suggests a spatial overlap consistent with a role in chromosome looping. Additionally, the cheRNA HIDALGO stimulates the fetal hemoglobin subunit gamma 1 (HBG1) gene during erythroid differentiation by promoting contacts to a downstream enhancer. Our results suggest that multiple cheRNAs activate proximal lineage-specific gene transcription.
+abstract: Histone post-translational modifications (PTMs) are important genomic regulators often studied by chromatin immunoprecipitation (ChIP), whereby their locations and relative abundance are inferred by antibody capture of nucleosomes and associated DNA. However, the specificity of antibodies within these experiments has not been systematically studied. Here, we use histone peptide arrays and internally calibrated ChIP (ICeChIP) to characterize 52 commercial antibodies purported to distinguish the H3K4 methylforms (me1, me2, and me3, with each ascribed distinct biological functions). We find that many widely used antibodies poorly distinguish the methylforms and that high- and low-specificity reagents can yield dramatically different biological interpretations, resulting in substantial divergence from the literature for numerous H3K4 methylform paradigms. Using ICeChIP, we also discern quantitative relationships between enhancer H3K4 methylation and promoter transcriptional output and can measure global PTM abundance changes. Our results illustrate how poor antibody specificity contributes to the "reproducibility crisis," demonstrating the need for rigorous, platform-appropriate validation.
 
 # Summary. An optional shortened abstract.
-summary: We recently described a new class of long noncoding RNAs (lncRNAs) that are distinguished by especially tight chromatin association and whose presence is strongly correlated to expression of nearby genes. Here, we examine the cis-enhancer mechanism of this class of chromatin-enriched RNA (cheRNA) across multiple human cell lines. Our results suggest that multiple cheRNAs activate proximal lineage-specific gene transcription.
-
-tags: []
+summary: Histone post-translational modifications (PTMs) are important genomic regulators often studied by chromatin immunoprecipitation (ChIP), whereby their locations and relative abundance are inferred by antibody capture of nucleosomes and associated DNA. Here, we use histone peptide arrays and internally calibrated ChIP (ICeChIP) to characterize 52 commercial antibodies purported to distinguish the H3K4 methylforms (me1, me2, and me3, with each ascribed distinct biological functions).
 
 # Display this page in the Featured widget?
 featured: true
