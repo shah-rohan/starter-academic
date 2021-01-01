@@ -33,10 +33,10 @@ publication_types: ["2"]
 publication: In *Nature Structural and Molecular Biology*
 publication_short: In *NSMB*
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: We recently described a new class of long noncoding RNAs (lncRNAs) that are distinguished by especially tight chromatin association and whose presence is strongly correlated to expression of nearby genes. Here, we examine the cis-enhancer mechanism of this class of chromatin-enriched RNA (cheRNA) across multiple human cell lines. cheRNAs are largely cell type specific and provide the most reliable chromatin signature to predict cis-gene transcription in every human cell type examined. Targeted depletion of three cheRNAs decreases expression of their neighboring genes, indicating potential co-activator function, and single-molecule fluorescence in situ hybridization (smFISH) of one cheRNA-distal target gene pair suggests a spatial overlap consistent with a role in chromosome looping. Additionally, the cheRNA HIDALGO stimulates the fetal hemoglobin subunit gamma 1 (HBG1) gene during erythroid differentiation by promoting contacts to a downstream enhancer. Our results suggest that multiple cheRNAs activate proximal lineage-specific gene transcription.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: We recently described a new class of long noncoding RNAs (lncRNAs) that are distinguished by especially tight chromatin association and whose presence is strongly correlated to expression of nearby genes. Here, we examine the cis-enhancer mechanism of this class of chromatin-enriched RNA (cheRNA) across multiple human cell lines. Our results suggest that multiple cheRNAs activate proximal lineage-specific gene transcription.
 
 tags: []
 
