@@ -13,7 +13,7 @@ authors:
 author_notes: []
 
 date: "2020-12-04"
-doi: "0.1101/2020.12.04.411215"
+doi: "10.1101/2020.12.04.411215"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2020-12-04T00:00:00Z"
