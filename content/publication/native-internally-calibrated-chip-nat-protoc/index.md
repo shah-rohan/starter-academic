@@ -1,5 +1,5 @@
 ---
-title: "Examining the Roles of H3K4 Methylation States with Systematically Characterized Antibodies"
+title: "Native internally calibrated chromatin immunoprecipitation for quantitative studies of histone post-translational modifications"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
