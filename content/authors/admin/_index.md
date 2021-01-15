@@ -57,4 +57,4 @@ highlight_name: false
 ---
 I am an M.D./Ph.D. student at the University of Chicago studying chromatin epigenetics in the [Ruthenburg Laboratory](http://ruthenlab.org/). My research interests include method development for quantitative applications of common techniques in modern molecular biology. This includes developing methods for quantitative studies of chromatin immunoprecipitation and designing tools for analysis of next-generation sequencing data.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/Rohan_Shah_CV.pdf" "newtab" >}}CV{{< /staticref >}}.
