@@ -32,4 +32,7 @@ abstract: MLL-rearranged leukemia depends on H3K79 methylation. Depletion of thi
 
 # Summary. An optional shortened abstract.
 summary: MLL-rearranged leukemia depends on H3K79 methylation. Depletion of this transcriptionally-activating mark by DOT1L deletion or high concentrations of the inhibitor pinometostat downregulates HOXA9 and MEIS1, and consequently reduces leukemia survival. Yet some MLL-rearranged leukemias are inexplicably susceptible to low-dose pinometostat, far below concentrations that downregulate this canonical proliferation pathway. In this context, we define alternative proliferation pathways that more directly derive from H3K79me2 loss.
+
+# Display this page in the Featured widget?
+featured: true
 ---
