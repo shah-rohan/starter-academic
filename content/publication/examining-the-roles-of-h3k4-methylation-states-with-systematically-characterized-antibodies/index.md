@@ -44,7 +44,7 @@ publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
 publication: In *Molecular Cell*
-publication_short: In *Mol Cell*
+publication_short: In *Molecular Cell*
 
 abstract: Histone post-translational modifications (PTMs) are important genomic regulators often studied by chromatin immunoprecipitation (ChIP), whereby their locations and relative abundance are inferred by antibody capture of nucleosomes and associated DNA. However, the specificity of antibodies within these experiments has not been systematically studied. Here, we use histone peptide arrays and internally calibrated ChIP (ICeChIP) to characterize 52 commercial antibodies purported to distinguish the H3K4 methylforms (me1, me2, and me3, with each ascribed distinct biological functions). We find that many widely used antibodies poorly distinguish the methylforms and that high- and low-specificity reagents can yield dramatically different biological interpretations, resulting in substantial divergence from the literature for numerous H3K4 methylform paradigms. Using ICeChIP, we also discern quantitative relationships between enhancer H3K4 methylation and promoter transcriptional output and can measure global PTM abundance changes. Our results illustrate how poor antibody specificity contributes to the "reproducibility crisis," demonstrating the need for rigorous, platform-appropriate validation.
 
