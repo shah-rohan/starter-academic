@@ -43,8 +43,8 @@ experience:
   - title: Teaching Assistant, Katen Scholars Program
     company: The University of Chicago
     location: Chicago, IL
-    date_start: '2016-06-01'
-    date_end: '2016-08-01'
+    date_start: '2017-06-01'
+    date_end: '2017-08-01'
 
   - title: Teaching Assistant, Principles of Physiology
     company: The University of Chicago
