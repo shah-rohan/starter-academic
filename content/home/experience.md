@@ -28,7 +28,7 @@ experience:
     location: Chicago, IL
     date_start: '2015-02-01'
     date_end: ''
-	weight: 1
+    weight: 1
     description: |2-
         Responsibilities include:
         
@@ -43,7 +43,7 @@ experience:
     location: Chicago, IL
     date_start: '2020-05-01'
     date_end: '2020-09-01'
-	weight: 2
+    weight: 2
     description: Performed chart abstractions as part of multiple ongoing research projects with Dr. Renslow Sherer at the University of Chicago.
             
   - title: Research Consultant
@@ -52,7 +52,7 @@ experience:
     location: Durham, North Carolina
     date_start: '2017-03-01'
     date_end: '2018-04-01'
-	weight: 3
+    weight: 3
     description: |2-
         Responsibilities included:
         
