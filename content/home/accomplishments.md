@@ -31,7 +31,7 @@ item:
 - date_start: "2016-06-01"
   organization: The University of Chicago
   title: Katen Scholar
-  description: Chosen for an undergraduate program of education in research, health disparities, public health.
+  description: Chosen for an undergraduate program of education in research, health disparities, and public health.
   
 - date_start: "2017-04-01"
   organization: The University of Chicago
