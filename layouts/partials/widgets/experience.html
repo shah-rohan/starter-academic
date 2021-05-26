@@ -12,8 +12,9 @@
   {{/* Default to user's custom order (as requested in #1761) as Hugo doesn't support multiple sorts on params. */}}
   <!-- Store the number of current experiences -->
   {{ $current_exp_len := len (where $page.Params.experience ".date_end" "") }}
+  {{ $sorted_pages := sort $page.Params.experience ".date_start" "desc" }}
   <!-- Loop over the array of current experiences -->
-  {{ range $idx, $key := where $page.Params.experience ".date_end" "" }}
+  {{ range $idx, $key := where $sorted_pages ".date_end" "" }}
   <!-- YOUR CODE for the timeline & content, no need to change anything -->
   <div class="row experience">
     <!-- Timeline -->	
@@ -76,7 +77,7 @@
   </div>
   {{ end }}
   <!-- Loop over the array of past experiences -->
-  {{ range $idx, $key := sort where $page.Params.experience ".date_end" "!=" "" ".date_start" "desc"}}
+  {{ range $idx, $key := where $sorted_pages ".date_end" "!=" ""}}
   <!-- YOUR CODE for the timeline & content ; replace all instances of $idx by (add $idx $current_exp_len) so the timeline displays properly -->
   <div class="row experience">
     <!-- Timeline -->	
@@ -137,6 +138,7 @@
       </div>
     </div>
   </div>
+  {{ end }}
   {{ end }}
   {{end}}
 </div>
