@@ -76,8 +76,8 @@
   </div>
   {{ end }}
   <!-- Loop over the array of past experiences -->
-  {{ range $idx, $keyprec := sort $page.Params.experience ".date_start" "desc" }}
-  {{ range $key := where $keyprec ".date_end" "!=" "" }}
+  {{ range $idx, $keyprec := where $keyprec ".date_end" "!=" "" }}
+  {{ range $key := sort $keyprec.ByParam ".date_start" "desc" }}
   <!-- YOUR CODE for the timeline & content ; replace all instances of $idx by (add $idx $current_exp_len) so the timeline displays properly -->
   <div class="row experience">
     <!-- Timeline -->	
