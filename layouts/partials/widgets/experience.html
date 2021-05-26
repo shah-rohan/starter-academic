@@ -13,8 +13,7 @@
   <!-- Store the number of current experiences -->
   {{ $current_exp_len := len (where $page.Params.experience ".date_end" "") }}
   <!-- Loop over the array of current experiences -->
-  {{ range $idx, $keyprec := where $page.Params.experience ".date_end" "" }}
-  {{ $key := range sort $keyprec ".date_start" "desc" }}
+  {{ range $idx, $key := where $page.Params.experience ".date_end" "" }}
   <!-- YOUR CODE for the timeline & content, no need to change anything -->
   <div class="row experience">
     <!-- Timeline -->	
