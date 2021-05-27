@@ -2,7 +2,7 @@
 color:maroon!important}
 
 .dark div.featurette-icon{
-color:#ffa319!important
+color:#ffffff!important
 }
 
 .dark div.col-md-9 a, .dark ul.network-icon a{
@@ -34,3 +34,9 @@ color:#ffa319!important}
 
 .dark .navbar .navbar-nav .nav-link:not(.active):not(:hover):not(:focus){
 color:#fff!important}
+
+.dark .experience .m-2 .border,.experience .col.border-right{
+border-color:#ffa319!important}
+
+.dark .experience .m-2 .border.exp-fill{
+background-color:#ffa319!important}
