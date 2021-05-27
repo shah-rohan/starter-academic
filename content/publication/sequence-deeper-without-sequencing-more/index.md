@@ -10,8 +10,8 @@ authors:
 
 # Author notes (optional)
 author_notes:
-- Equal Contribution
-- Equal Contribution
+- Corresponding Author
+- Corresponding Author
 
 date: "2021-04-19"
 doi: "10.1371/journal.pcbi.1008926"
