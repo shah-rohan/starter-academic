@@ -1,19 +1,19 @@
 .exp-title{
 color:maroon!important}
 
-.dark p a, .dark h3.article-title a:hover, .dark .exp-company a, .dark ul.fa-ul a, .dark ul.fa-ul a{
+.dark p a, .dark h3.article-title a:hover, .dark .exp-company a, .dark ul.fa-ul a, .dark ul.fa-ul a, .dark span.article-metadata a{
 color:#ffa319!important}
 
 .dark .btn a, .dark .btn-outline-primary{
+color:#ffa319!important;
+background-color:maroon!important;
+border-color:maroon!important}
+
+.dark .btn-outline-primary:hover{
 color:maroon!important;
 border-color:#ffa319!important;
 background-color:#ffa319!important
 }
-
-.dark .btn-outline-primary:hover{
-color:#ffa319!important;
-background-color:maroon!important;
-border-color:maroon!important}
 
 .dark a:hover,.dark a:focus{
 color:#ffffff!important}
