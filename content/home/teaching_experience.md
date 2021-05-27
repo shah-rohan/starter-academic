@@ -70,4 +70,9 @@ experience:
     date_start: '2020-09-01'
     date_end: '2020-12-01'
 
+  - title: Teaching Assistant, Biological Dynamics
+    company: The University of Chicago
+    location: Chicago, IL
+    date_start: '2020-03-01'
+    date_end: ''
 ---
