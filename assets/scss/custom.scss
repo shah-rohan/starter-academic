@@ -1,6 +1,10 @@
 .exp-title{
 color:maroon!important}
 
+.dark :not(.network-icon):not(.navbar) a{
+color: $ffa319!important
+}
+
 .dark p a, .dark h3.article-title a:hover{
 color:#ffa319!important}
 
