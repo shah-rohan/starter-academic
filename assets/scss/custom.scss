@@ -1,7 +1,7 @@
 .exp-title{
 color:maroon!important}
 
-.dark p a, .dark h3.article-title a:hover, .dark .exp-company a, .dark ul.fa-ul a, .dark ul.fa-ul a, .dark div.pub-list-item a{
+.dark p a, .dark h3.article-title a:hover, .dark .exp-company a, .dark ul.fa-ul a, .dark ul.fa-ul a, .dark div.pub-list-item a, .dark div.col-md-9 a{
 color:#ffa319!important}
 
 .dark .btn a, .dark .btn-outline-primary{
@@ -26,3 +26,6 @@ color:#ffa319!important}
 
 .dark .navbar .navbar-nav .nav-link:not(.active):not(:hover):not(:focus){
 color:#fff!important}
+
+body.dark,.dark .docs-toc-link,.dark .docs-sidebar .nav>li:not(.active)>a,.dark .modal button.close,.dark input,.dark .form-control,.dark .form-control:focus{
+background:#07222e}
