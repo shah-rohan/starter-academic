@@ -74,5 +74,5 @@ experience:
     company: The University of Chicago
     location: Chicago, IL
     date_start: '2020-03-01'
-    date_end: ''
+    date_end: '2020-06-01'
 ---
