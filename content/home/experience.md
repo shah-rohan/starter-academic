@@ -31,9 +31,9 @@ experience:
     description: |2-
         Responsibilities include:
         
-        * Developing a novel form of chromatin immunoprecipitation to assess and quantify internal histone modifications
+        * Developing a novel form of chromatin immunoprecipitation to quantify internal histone modifications
+        * Developing methods for Bayesian reallocation of ambiguously mapped next-generation sequencing reads
         * Serving as systems administrator to manage and maintain lab servers and promote integration of computational resources with ongoing research projects throughout the lab
-        * Developing novel bioinformatic methods for genome-wide data analysis
         * Working in multiple ongoing collaborations on the roles of histone modifications as epigenetic regulators
         
   - title: Chart Abstracter
@@ -42,7 +42,10 @@ experience:
     location: Chicago, IL
     date_start: '2020-05-01'
     date_end: '2020-09-01'
-    description: Performed chart abstractions as part of multiple ongoing research projects with Dr. Renslow Sherer at the University of Chicago.
+    description: |2-
+    	* Worked as part of multiple ongoing research projects with Dr. Renslow Sherer at the University of Chicago.
+		* Performed chart abstractions of first 414 COVID-19 admissions to the University of Chicago Medical Center
+		* Worked on subgroup study examining risk factors and outcomes of COVID-19 patients with coinfections
             
   - title: Research Consultant
     company: Epicypher, Inc.
