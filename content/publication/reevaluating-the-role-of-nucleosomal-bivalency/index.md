@@ -18,9 +18,9 @@ authors:
 
 # Author notes (optional)
 author_notes:
-- Contributed Equally
-- Contributed Equally
-- Contributed Equally
+- Equal Contribution
+- Equal Contribution
+- Equal Contribution
 
 date: "2021-09-10"
 doi: "10.1101/2021.09.09.458948"
