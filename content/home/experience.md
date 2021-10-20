@@ -44,8 +44,8 @@ experience:
     date_end: '2020-09-01'
     description: |2-
         * Worked as part of multiple ongoing research projects with Dr. Renslow Sherer at the University of Chicago.
-	    * Performed chart abstractions of first 414 COVID-19 admissions to the University of Chicago Medical Center
-	    * Worked on subgroup study examining risk factors and outcomes of COVID-19 patients with coinfections
+        * Performed chart abstractions of first 414 COVID-19 admissions to the University of Chicago Medical Center
+        * Worked on subgroup study examining risk factors and outcomes of COVID-19 patients with coinfections
             
   - title: Research Consultant
     company: Epicypher, Inc.
