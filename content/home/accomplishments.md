@@ -68,7 +68,7 @@ item:
   title: Growth, Development and Disabilities Training Program Appointee
   description: Awarded full funding to pursue an M.D./Ph.D. joint degree program.
   
-- date_start: "2020-10-01"
+- date_start: "2021-10-01"
   organization: The University of Chicago
   title: Best Talk, UChicago Molecular Biosciences Retreat
   description: Awarded for the best senior graduate student talk at the UChicago Molecular Biosciences Retreat.
