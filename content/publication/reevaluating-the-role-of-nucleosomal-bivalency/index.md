@@ -1,5 +1,5 @@
 ---
-title: "Sequence deeper without sequencing more: Bayesian resolution of ambiguously mapped reads"
+title: "Re-evaluating the role of nucleosomal bivalency in early development"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
