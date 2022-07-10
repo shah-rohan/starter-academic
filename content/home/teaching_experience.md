@@ -26,6 +26,7 @@ experience:
     company: The University of Chicago
     location: Chicago, IL
     date_end: '2022-05-01'
+    date_end: '2022-05-02'
 
   - title: Teaching Assistant, Biological Dynamics
     company: The University of Chicago
