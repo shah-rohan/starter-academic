@@ -79,5 +79,5 @@ experience:
   - title: Lead Instructor, Genetics and Molecular Evolution Workshop
     company: The University of Chicago
     location: Chicago, IL
-    date_end: '2022-05-02'
+    date: '2022-05-02'
 ---
