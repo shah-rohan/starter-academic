@@ -75,4 +75,10 @@ experience:
     location: Chicago, IL
     date_start: '2021-03-01'
     date_end: '2021-06-01'
+
+  - title: Lead Instructor, Genetics and Molecular Evolution Workshop
+    company: The University of Chicago
+    location: Chicago, IL
+    date_start: '2022-05-01'
+    date_end: '2022-05-02'
 ---
