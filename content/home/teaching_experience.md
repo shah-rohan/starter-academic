@@ -22,6 +22,11 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+  - title: Lead Instructor, Genetics and Molecular Evolution Workshop
+    company: The University of Chicago
+    location: Chicago, IL
+    date_end: '2022-05-01'
+
   - title: Teaching Assistant, Biological Dynamics
     company: The University of Chicago
     location: Chicago, IL
