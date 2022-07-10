@@ -45,7 +45,7 @@ education:
   courses:
     - course: Ph.D. in Genetics, Genomics, and Systems Biology
       institution: The University of Chicago
-	  year: 2022
+      year: 2022
     - course: M.D. in Medicine (ongoing)
       institution: The University of Chicago Pritzker School of Medicine
       year: ""
